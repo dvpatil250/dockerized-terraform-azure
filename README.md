@@ -8,10 +8,15 @@ This project demonstrates how to use a Dockerized environment with **Terraform**
 - Azure Subscription
 ## 📁 Folder Structure
 terraform-azure-docker/
+
 │
+
 ├── Dockerfile
+
 ├── entrypoint.sh
+
 ├── main.tf
+
 └── README.md
 ## Dockerfile
 - Based on `ubuntu:latest`
