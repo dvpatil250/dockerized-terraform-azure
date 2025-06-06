@@ -4,7 +4,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "devops_rg" {
-  name     = "devops-test-rg"
-  location = "East US"
+  name     = "<Resource Group Name>"
+  location = "<Region>"
 }
 
